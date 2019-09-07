@@ -1,4 +1,4 @@
-# hexo-deployer-git
+# hexo-deployer-git new
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-deployer-git.svg?branch=master)](https://travis-ci.org/hexojs/hexo-deployer-git)
 [![NPM version](https://badge.fury.io/js/hexo-deployer-git.svg)](https://www.npmjs.com/package/hexo-deployer-git)
